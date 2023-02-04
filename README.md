@@ -1,4 +1,4 @@
-# RemoteDSM
+Arduino controlled DSM2 transmitter: https://youtu.be/5BfRg9CUMYI
 
 https://hobbyking.com/en_us/orangerx-dsmx-dsm2-compatible-2-4ghz-transmitter-module-v2-0-jr-turnigy-taranis-compatible.html
 
